@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "275451600489",
+    "project_id": "workonenightoauth",
+    "storage_bucket": "workonenightoauth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275451600489:android:abc946aaf82864f3b84cf8",
+        "android_client_info": {
+          "package_name": "com.w1n.workonenight"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "275451600489-gcoq2or6kns0ntbtdr29g4ft6ijr0qtm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIZcfvodob7Z_U0sQKlsMNQAaUq5_SdyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "275451600489-gcoq2or6kns0ntbtdr29g4ft6ijr0qtm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
